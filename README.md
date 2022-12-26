@@ -1,6 +1,7 @@
 <div display="flex" align="center" margin="500px">
-  <h1 align="center" font-size="300"> Olá, seja bem-vindo!</h1> 
+  <h1 align="center" font-size="300"> Olá?!</h1>
   <img src="https://media.tenor.com/TbozzOWefN8AAAAC/caught-in4k-meme-emoji.gif" width="200px" height="200px">
+  <h1>Seja bem-vindo(a)!</h1>
 </div>
 <div align="center">
 <br>
