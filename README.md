@@ -23,6 +23,6 @@
      <img src="https://www.beabadohtml.com.br/midias/imagens/js.png" width="80" height="80px" title="JavaScript">
   </section>
 
- ![Snake animation](https://github.com/davismarciel/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/davismarciel/davismarciel/blob/output/github-contribution-grid-snake.svg)
  
  
