@@ -18,7 +18,9 @@
 <div align="center">
   <section>
      <h3>LINGUAGENS E TECNOLOGIAS<h3>
-     [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=js,html,css,sass,nodejs,react" height="70px"/>
+        </a>
   </section>
 
  ![Snake animation](https://github.com/davismarciel/davismarciel/blob/output/github-contribution-grid-snake.svg)
