@@ -18,10 +18,7 @@
 <div align="center">
   <section>
      <h3>LINGUAGENS E TECNOLOGIAS<h3>
-     <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="80" height="80px" title="HTML5">
-     <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="80" height="80px" title="CSS3">
-     <img src="https://www.beabadohtml.com.br/midias/imagens/js.png" width="80" height="80px" title="JavaScript">
-     <img src="https://user-images.githubusercontent.com/74362841/156068480-6b323a4d-ccb1-4169-8b2c-ed5e92f13cf9.png" width="80" height="80px" title="SASS">
+     [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
   </section>
 
  ![Snake animation](https://github.com/davismarciel/davismarciel/blob/output/github-contribution-grid-snake.svg)
