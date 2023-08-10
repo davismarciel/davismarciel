@@ -27,6 +27,3 @@
         </a>
   </section>
 
- ![Snake animation](https://github.com/davismarciel/davismarciel/blob/output/github-contribution-grid-snake.svg)
- 
- 
