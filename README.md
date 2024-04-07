@@ -7,9 +7,9 @@
   </a>
   <h1>Seja bem-vindo(a)!</h1>
 </div>
-<div>
-  <h3>Meu portfólio</h3>
-  <a href="https://portfolio-davismarciels-projects.vercel.app/"></a>
+<div display="flex" align="center">
+  <h2>Meu portfólio</h2>
+   <a href="https://instagram.com/davihmm" target="_blank"><img width="50" height="50" src="https://img.icons8.com/ios/50/portfolio.png" alt="portfolio" target="_blank"/></a>
 </div>
 <div align="center">
 <br>
