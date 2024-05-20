@@ -1,6 +1,5 @@
 <div display="flex" align="center" margin="500px">
-  <h1 align="center" font-size="300"> Olá?!</h1>
-  <img src="https://media.tenor.com/TbozzOWefN8AAAAC/caught-in4k-meme-emoji.gif" width="200px" height="200px">
+  <h1 align="center" font-size="300"> Olá!</h1>
   <br>
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=davismarciel&style=for-the-badge">
