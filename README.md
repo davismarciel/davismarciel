@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Meu nome é Davi!</h1>
 
 <p align="center">
-  <a href="./README.md"><img src="https://img.shields.io/badge>Currently%20in-Português-green?style=for-the-badge"></a>
+  <a href="./README.md"><img src="https://img.shields.io/badge/Currently%20in-Português-green?style=for-the-badge"></a>
   <a href="./README.en.md"><img src="https://img.shields.io/badge/Read%20in-English-blue?style=for-the-badge"></a>
 </p>
 
