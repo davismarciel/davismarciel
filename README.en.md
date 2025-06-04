@@ -72,8 +72,8 @@ I'm a backend developer and Information Systems student with hands-on experience
 
 | Project                        | Description                                                    | Tech                               |
 | ------------------------------ | -------------------------------------------------------------- | ---------------------------------- |
-| 🔹 [**Whatsapp Everyone Bot**](https://github.com/davismarciel/whatsapp-everyone-bot)  | Automates messages, stickers, mentions, and sports data.       | Node.js, Evolution API             |
-| 🔹 **Sales API (Spring Boot)** | RESTful API with authentication, product and order management. | Java, Spring Boot, JPA, PostgreSQL |
+| 🔹 [**Everyone Bot**](https://github.com/davismarciel/whatsapp-everyone-bot)  | Automates messages, stickers, mentions, and sports data.       | Node.js, Evolution API             |
+| 🔹 [**Sales API**](https://github.com/davismarciel/sales-api-java)  | RESTful API with authentication, product and order management. | Java, Spring Boot, JPA, PostgreSQL |
 
 ---
 
