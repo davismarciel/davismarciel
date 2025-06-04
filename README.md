@@ -1,28 +1,123 @@
-<div display="flex" align="center" margin="500px">
-  <h1 align="center" font-size="300"> Olá!</h1>
-  <br>
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=davismarciel&style=for-the-badge">
-  </a>
-  <h1>Seja bem-vindo(a)!</h1>
-</div>
-<div align="center">
-<br>
-<h3>CONTATO</h3>
-  <a href="https://instagram.com/davii_saa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:davisamarciel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/davisamarciel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<br><br>
-<div align="center">
-  <a href="https://github.com/davismarciel">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davismarciel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davismarciel&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div align="center">
-  <section>
-     <h3>LINGUAGENS E TECNOLOGIAS<h3>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=js,html,css,sass,nodejs,react" height="70px"/>
-        </a>
-  </section>
+<h1 align="center">👋 Olá! Eu sou o Davi Sá Marciel</h1>
 
+<p align="center">
+  💻 Desenvolvedor Backend • 🎓 Sistemas de Informação (2024–2028) • 🌎 Açailândia - MA
+</p>
+
+<p align="center">
+  <a href="mailto:davisamarciel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-davisamarciel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/davi-sá-marciel-0a23622bb">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/davismarciel">
+    <img src="https://img.shields.io/badge/GitHub-davismarciel-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://example.com/DaviSá-Curriculo.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Baixar%20Currículo-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 Sobre mim
+
+Sou um estudante e desenvolvedor backend com experiência prática na criação e manutenção de sistemas web. Tenho familiaridade com automações, arquitetura limpa e integração entre tecnologias. Atualmente, atuo como voluntário na **Smart Creative Solutions**, onde colaboro em projetos reais para empresas da região, desenvolvendo soluções escaláveis e funcionais.
+
+---
+
+## 🚀 Tecnologias
+
+### 💻 Linguagens
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🧰 Frameworks & Ferramentas
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### 🗃️ Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### ⚙️ DevOps, Mensageria e Armazenamento
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C60000?style=for-the-badge&logo=min.io&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📂 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| 🔹 **Bot WhatsApp Automatizado** | Automatiza mensagens, figurinhas, menções e dados esportivos. | Node.js, Evolution API |
+| 🔹 **API de Vendas (Spring Boot)** | API RESTful com autenticação, produtos e pedidos. | Java, Spring Boot, JPA, PostgreSQL |
+
+---
+
+## 🧠 Destaques Técnicos
+
+- Clean Architecture e DDD  
+- Clean Code e boas práticas  
+- Integração entre sistemas  
+- Armazenamento com MinIO (S3)  
+- Filas com RabbitMQ  
+- Autenticação com JWT  
+
+> Aplico essas abordagens no desenvolvimento de projetos reais e acadêmicos, especialmente na empresa júnior Smart Creative Solutions.
+
+---
+
+## 🎓 Formação
+
+**Bacharelado em Sistemas de Informação**  
+📍 Wyden Facimp — *2024 a 2028*
+
+---
+
+## 🏢 Experiência
+
+### 💼 Smart Creative Solutions (Empresa Júnior)  
+**Desenvolvedor Backend (Voluntário)** — *ago/2024 - atual*  
+- Atuação em projetos reais com arquitetura limpa, mensageria e integração de sistemas
+- Implementação de soluções com **RabbitMQ**, **MinIO**, **Prisma** e **Spring Boot**
+
+---
+
+## 🌐 Estatísticas GitHub
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=davismarciel&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=davismarciel&theme=dracula&row=1&no-frame=true&margin-w=8" height="150" />
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davismarciel/davismarciel/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davismarciel/davismarciel/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/davismarciel/davismarciel/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🗣️ Idiomas
+
+- 🇧🇷 Português: Nativo  
+- 🇺🇸 Inglês: Avançado (C1 – EF SET 66/100)  
+  [📄 Ver certificado EF SET](https://cert.efset.org/BQGrah)
+
+---
