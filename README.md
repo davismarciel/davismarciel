@@ -70,10 +70,10 @@ Sou um estudante e desenvolvedor backend com experiência prática na criação 
 
 ## 📂 Projetos em Destaque
 
-| Projeto                            | Descrição                                                     | Tecnologias                        |
-| ---------------------------------- | ------------------------------------------------------------- | ---------------------------------- |
-| 🔹 **Bot WhatsApp Automatizado**   | Automatiza mensagens, figurinhas, menções e dados esportivos. | Node.js, Evolution API             |
-| 🔹 **API de Vendas (Spring Boot)** | API RESTful com autenticação, produtos e pedidos.             | Java, Spring Boot, JPA, PostgreSQL |
+| Projeto                              | Descrição                                                     | Tecnologias                        |
+| ------------------------------------ | ------------------------------------------------------------- | ---------------------------------- |
+| 🔹 [**Whatsapp Everyone Bot**](https://github.com/davismarciel/whatsapp-everyone-bot) | Automatiza mensagens, figurinhas, menções e dados esportivos. | Node.js, Evolution API             |
+| 🔹 **API de Vendas (Spring Boot)**   | API RESTful com autenticação, produtos e pedidos.             | Java, Spring Boot, JPA, PostgreSQL |
 
 ---
 
