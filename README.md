@@ -1,8 +1,14 @@
 <h1 align="center">👋 Olá! Eu sou o Davi Sá Marciel</h1>
 
 <p align="center">
+  <a href="./README.md"><img src="https://img.shields.io/badge/Ler%20em-Português-green?style=for-the-badge"></a>
+  <a href="./README.en.md"><img src="https://img.shields.io/badge/Read%20in-English-blue?style=for-the-badge"></a>
+</p>
+
+<p align="center">
   💻 Desenvolvedor Backend • 🎓 Sistemas de Informação (2024–2028) • 🌎 Açailândia - MA
 </p>
+
 
 <p align="center">
   <a href="mailto:davisamarciel@gmail.com">
@@ -14,7 +20,7 @@
   <a href="https://github.com/davismarciel">
     <img src="https://img.shields.io/badge/GitHub-davismarciel-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://example.com/DaviSá-Curriculo.pdf" target="_blank">
+  <a href="https://docs.google.com/document/d/18A1cl3Dnk2_IKZhdY527Y4IG21IrxCbQLXh9ebo2VXE/export?format=pdf" target="_blank">
     <img src="https://img.shields.io/badge/Baixar%20Currículo-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
@@ -91,13 +97,14 @@ Sou um estudante e desenvolvedor backend com experiência prática na criação 
 ## 🏢 Experiência
 
 ### 💼 Smart Creative Solutions (Empresa Júnior)  
-**Desenvolvedor Backend (Voluntário)** — *ago/2024 - atual*  
-- Atuação em projetos reais com arquitetura limpa, mensageria e integração de sistemas
-- Implementação de soluções com **RabbitMQ**, **MinIO**, **Prisma** e **Spring Boot**
+**Desenvolvedor Backend (Voluntário)** — *ago/2024 - atual*
+
+- Responsável pelo desenvolvimento e manutenção da camada backend das aplicações da empresa júnior, seguindo princípios de **Clean Architecture** e **boas práticas de código**.
+- **Gestão de Armazenamento com MinIO:** configurei buckets utilizando a compatibilidade com a API S3 da AWS, oferecendo uma solução escalável, segura e de baixo custo para armazenamento interno.
+- **Sistema de Mensageria com RabbitMQ:** implementei filas para processar e distribuir dados de forma assíncrona entre serviços, reduzindo acoplamento e melhorando o desempenho da comunicação entre módulos.
+- **Integração com Case Manager (Python):** desenvolvi um módulo de integração entre sistemas JavaScript e um gerenciador de casos escrito em Python, automatizando processos e facilitando a sincronização de dados entre equipes.
 
 ---
-
-## 🌐 Estatísticas GitHub
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=davismarciel&theme=dracula&hide_border=false" height="150" />
