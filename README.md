@@ -1,14 +1,13 @@
 <h1 align="center">👋 Olá! Meu nome é Davi!</h1>
 
 <p align="center">
-  <a href="./README.md"><img src="https://img.shields.io/badge/Ler%20em-Português-green?style=for-the-badge"></a>
+  <a href="./README.md"><img src="https://img.shields.io/badge>Currently%20in-Português-green?style=for-the-badge"></a>
   <a href="./README.en.md"><img src="https://img.shields.io/badge/Read%20in-English-blue?style=for-the-badge"></a>
 </p>
 
 <p align="center">
   💻 Desenvolvedor Backend • 🎓 Sistemas de Informação (2024–2028) • 🌎 Açailândia - MA
 </p>
-
 
 <p align="center">
   <a href="mailto:davisamarciel@gmail.com">
@@ -36,6 +35,7 @@ Sou um estudante e desenvolvedor backend com experiência prática na criação 
 ## 🚀 Tecnologias
 
 ### 💻 Linguagens
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -43,6 +43,7 @@ Sou um estudante e desenvolvedor backend com experiência prática na criação 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🧰 Frameworks & Ferramentas
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -51,12 +52,14 @@ Sou um estudante e desenvolvedor backend com experiência prática na criação 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### 🗃️ Banco de Dados
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### ⚙️ DevOps, Mensageria e Armazenamento
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C60000?style=for-the-badge&logo=min.io&logoColor=white)
@@ -67,21 +70,21 @@ Sou um estudante e desenvolvedor backend com experiência prática na criação 
 
 ## 📂 Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| 🔹 **Bot WhatsApp Automatizado** | Automatiza mensagens, figurinhas, menções e dados esportivos. | Node.js, Evolution API |
-| 🔹 **API de Vendas (Spring Boot)** | API RESTful com autenticação, produtos e pedidos. | Java, Spring Boot, JPA, PostgreSQL |
+| Projeto                            | Descrição                                                     | Tecnologias                        |
+| ---------------------------------- | ------------------------------------------------------------- | ---------------------------------- |
+| 🔹 **Bot WhatsApp Automatizado**   | Automatiza mensagens, figurinhas, menções e dados esportivos. | Node.js, Evolution API             |
+| 🔹 **API de Vendas (Spring Boot)** | API RESTful com autenticação, produtos e pedidos.             | Java, Spring Boot, JPA, PostgreSQL |
 
 ---
 
 ## 🧠 Destaques Técnicos
 
-- Clean Architecture e DDD  
-- Clean Code e boas práticas  
-- Integração entre sistemas  
-- Armazenamento com MinIO (S3)  
-- Filas com RabbitMQ  
-- Autenticação com JWT  
+- Clean Architecture e DDD
+- Clean Code e boas práticas
+- Integração entre sistemas
+- Armazenamento com MinIO (S3)
+- Filas com RabbitMQ
+- Autenticação com JWT
 
 > Aplico essas abordagens no desenvolvimento de projetos reais e acadêmicos, especialmente na empresa júnior Smart Creative Solutions.
 
@@ -90,14 +93,15 @@ Sou um estudante e desenvolvedor backend com experiência prática na criação 
 ## 🎓 Formação
 
 **Bacharelado em Sistemas de Informação**  
-📍 Wyden Facimp — *2024 a 2028*
+📍 Wyden Facimp — _2024 a 2028_
 
 ---
 
 ## 🏢 Experiência
 
-### 💼 Smart Creative Solutions (Empresa Júnior)  
-**Desenvolvedor Backend (Voluntário)** — *ago/2024 - atual*
+### 💼 Smart Creative Solutions (Empresa Júnior)
+
+**Desenvolvedor Backend (Voluntário)** — _ago/2024 - atual_
 
 - Responsável pelo desenvolvimento e manutenção da camada backend das aplicações da empresa júnior, seguindo princípios de **Clean Architecture** e **boas práticas de código**.
 - **Gestão de Armazenamento com MinIO:** configurei buckets utilizando a compatibilidade com a API S3 da AWS, oferecendo uma solução escalável, segura e de baixo custo para armazenamento interno.
@@ -123,7 +127,7 @@ Sou um estudante e desenvolvedor backend com experiência prática na criação 
 
 ## 🗣️ Idiomas
 
-- 🇧🇷 Português: Nativo  
+- 🇧🇷 Português: Nativo
 - 🇺🇸 Inglês: Avançado (C1 – EF SET 66/100)  
   [📄 Ver certificado EF SET](https://cert.efset.org/BQGrah)
 
