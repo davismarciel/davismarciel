@@ -74,6 +74,8 @@ Sou um estudante e desenvolvedor backend com experiência prática na criação 
 |-------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------|
 | 🔹 [**Everyone Bot**](https://github.com/davismarciel/whatsapp-everyone-bot) | Automatiza mensagens, figurinhas, menções e dados esportivos. | Node.js, NestJS, Evolution API     |
 | 🔹 [**API de Vendas**](https://github.com/davismarciel/sales-api-java) | API RESTful com autenticação, produtos e pedidos.             | Java, Spring Boot, JPA, PostgreSQL |
+| 🔹 **Hemolife** *(privado - Demonstração mediante a solicitação)* | Plataforma de gerenciamento de hemocentros e doações de sangue. | NestJS, PostgreSQL, JWT, Prisma, Swagger |
+
 
 ---
 
