@@ -19,7 +19,7 @@
   <a href="https://github.com/davismarciel">
     <img src="https://img.shields.io/badge/GitHub-davismarciel-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://docs.google.com/document/d/18A1cl3Dnk2_IKZhdY527Y4IG21IrxCbQLXh9ebo2VXE/export?format=pdf" target="_blank">
+  <a href="https://docs.google.com/document/d/1j32KJ06Dn9nfecSkIBRPTXVjZNZ1kNWdPnhxxiFVEtA/export?format=pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
