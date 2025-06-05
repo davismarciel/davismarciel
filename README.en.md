@@ -70,10 +70,11 @@ I'm a backend developer and Information Systems student with hands-on experience
 
 ## 📂 Featured Projects
 
-| Project                        | Description                                                    | Tech                               |
-| ------------------------------ | -------------------------------------------------------------- | ---------------------------------- |
-| 🔹 [**Everyone Bot**](https://github.com/davismarciel/whatsapp-everyone-bot)  | Automates messages, stickers, mentions, and sports data.       | Node.js, Evolution API             |
-| 🔹 [**Sales API**](https://github.com/davismarciel/sales-api-java)  | RESTful API with authentication, product and order management. | Java, Spring Boot, JPA, PostgreSQL |
+| Project                                                                      | Description                                                          | Tech Stack                               |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------- |
+| 🔹 [**Everyone Bot**](https://github.com/davismarciel/whatsapp-everyone-bot) | Automates messages, stickers, mentions, and sports data.             | Node.js, NestJS, Evolution API           |
+| 🔹 [**Sales API**](https://github.com/davismarciel/sales-api-java)           | RESTful API for managing authentication, products, and orders.       | Java, Spring Boot, JPA, PostgreSQL       |
+| 🔹 **Hemolife** *(private – demo available on request)*                      | Blood donation management system with authentication and scheduling. | NestJS, Prisma, PostgreSQL, JWT, Swagger |
 
 ---
 
