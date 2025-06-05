@@ -70,12 +70,11 @@ Sou um estudante e desenvolvedor backend com experiência prática na criação 
 
 ## 📂 Projetos em Destaque
 
-| Projeto                                                                 | Descrição                                                     | Tecnologias                        |
-|-------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------|
-| 🔹 [**Everyone Bot**](https://github.com/davismarciel/whatsapp-everyone-bot) | Automatiza mensagens, figurinhas, menções e dados esportivos. | Node.js, NestJS, Evolution API     |
-| 🔹 [**API de Vendas**](https://github.com/davismarciel/sales-api-java) | API RESTful com autenticação, produtos e pedidos.             | Java, Spring Boot, JPA, PostgreSQL |
-| 🔹 **Hemolife** *(privado - Demonstração mediante a solicitação)* | Plataforma de gerenciamento de hemocentros e doações de sangue. | NestJS, PostgreSQL, JWT, Prisma, Swagger |
-
+| Projeto                                                                      | Descrição                                                                                                | Tecnologias                              |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 🔹 [**Everyone Bot**](https://github.com/davismarciel/whatsapp-everyone-bot) | Automatiza mensagens, figurinhas, menções e dados esportivos.                                            | Node.js, NestJS, Evolution API           |
+| 🔹 [**API de Vendas**](https://github.com/davismarciel/sales-api-java)       | API RESTful com autenticação, produtos e pedidos.                                                        | Java, Spring Boot, JPA, PostgreSQL       |
+| 🔹 **Hemolife** *(privado – demonstração mediante solicitação)*              | Plataforma para gerenciamento de hemocentros e doações de sangue, com autenticação, agendamentos e RBAC. | NestJS, Prisma, PostgreSQL, JWT, Swagger |
 
 ---
 
