@@ -109,6 +109,8 @@ Sou um estudante e desenvolvedor backend com experiência prática na criação 
 - **Sistema de Mensageria com RabbitMQ:** implementei filas para processar e distribuir dados de forma assíncrona entre serviços, reduzindo acoplamento e melhorando o desempenho da comunicação entre módulos.
 - **Integração com Case Manager (Python):** desenvolvi um módulo de integração entre sistemas JavaScript e um gerenciador de casos escrito em Python, automatizando processos e facilitando a sincronização de dados entre equipes.
 
+> Para uma descrição detalhada das minhas contribuições e projetos, consulte meu [currículo completo](https://docs.google.com/document/d/18A1cl3Dnk2_IKZhdY527Y4IG21IrxCbQLXh9ebo2VXE/export?format=pdf).
+
 ---
 
 <div align="center">
