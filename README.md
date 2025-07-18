@@ -28,7 +28,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou um estudante e desenvolvedor backend com experiência prática na criação e manutenção de sistemas web. Tenho familiaridade com automações, arquitetura limpa e integração entre tecnologias. Atualmente, atuo como voluntário na **Smart Creative Solutions**, onde colaboro em projetos reais para empresas da região, desenvolvendo soluções escaláveis e funcionais.
+Sou um estudante e desenvolvedor backend com experiência prática na criação e manutenção de sistemas web. Tenho familiaridade com automações, arquitetura limpa e integração entre tecnologias. Atualmente, atuo como desenvolvedor backend na **Smart Creative Solutions**, onde colaboro em projetos reais para empresas da região, desenvolvendo soluções escaláveis e funcionais.
 
 ---
 
@@ -87,7 +87,7 @@ Sou um estudante e desenvolvedor backend com experiência prática na criação 
 - Filas com RabbitMQ
 - Autenticação com JWT
 
-> Aplico essas abordagens no desenvolvimento de projetos reais e acadêmicos, especialmente na empresa júnior Smart Creative Solutions.
+> Aplico essas abordagens no desenvolvimento de projetos reais e acadêmicos, especialmente na empresa Smart Creative Solutions.
 
 ---
 
@@ -102,7 +102,7 @@ Sou um estudante e desenvolvedor backend com experiência prática na criação 
 
 ### 💼 Smart Creative Solutions (Empresa Júnior)
 
-**Desenvolvedor Backend (Voluntário)** — _ago/2024 - atual_
+**Desenvolvedor Backend** — _jul/2024 - atual_
 
 - Responsável pelo desenvolvimento e manutenção da camada backend das aplicações da empresa júnior, seguindo princípios de **Clean Architecture** e **boas práticas de código**.
 - **Gestão de Armazenamento com MinIO:** configurei buckets utilizando a compatibilidade com a API S3 da AWS, oferecendo uma solução escalável, segura e de baixo custo para armazenamento interno.
