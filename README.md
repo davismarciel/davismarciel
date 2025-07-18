@@ -100,7 +100,7 @@ Sou um estudante e desenvolvedor backend com experiência prática na criação 
 
 ## 🏢 Experiência
 
-### 💼 Smart Creative Solutions (Empresa Júnior)
+### 💼 Smart Creative Solutions
 
 **Desenvolvedor Backend** — _jul/2024 - atual_
 
