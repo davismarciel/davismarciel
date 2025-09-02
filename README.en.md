@@ -76,7 +76,7 @@ I'm a backend developer and Information Systems student with hands-on experience
 | 🔹 [**Everyone Bot**](https://github.com/davismarciel/whatsapp-everyone-bot) | Automates messages, stickers, mentions, and sports data.             | Node.js, NestJS, Evolution API           |
 | 🔹 [**Sales API**](https://github.com/davismarciel/sales-api-java)           | RESTful API for managing authentication, products, and orders.       | Java, Spring Boot, JPA, PostgreSQL       |
 | 🔹 [**Hemolife**](https://github.com/hemolife-system/hemolife-backend)       | Blood donation management system with authentication and scheduling. | NestJS, Prisma, PostgreSQL, JWT, Swagger |
-
+| 🔹[**Social Post Manager**](https://github.com/davismarciel/social_post_manager)      | A simple user and administrative dashboard for managing posts. | Next.js, React, Tailwind CSS, Context API, OAuth 2.0 |
 ---
 
 ## 🧠 Technical Highlights
