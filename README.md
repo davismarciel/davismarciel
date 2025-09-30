@@ -5,10 +5,10 @@
 
 [![Email](https://img.shields.io/badge/Email-davisamarciel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davisamarciel@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Davi_Sá_Marciel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davi-sá-marciel-0a23622bb)
-[![Currículo](https://img.shields.io/badge/Currículo-PDF-red?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://docs.google.com/document/d/18A1cl3Dnk2_IKZhdY527Y4IG21IrxCbQLXh9ebo2VXE/export?format=pdf)
+[![Currículo](https://img.shields.io/badge/Currículo-PDF-red?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://docs.google.com/document/d/160WhJ_qG33kKDnQUE5UrheeUWDF6-9RUGSYQ0XuBjXY/export?format=pdf)
 ---
 
-## 🧑‍💻 Sobre mim  
+## 🧑‍💻 Sobre mim
 
 Desenvolvedor Backend com mais de um ano de experiência prática, dedicado a construir soluções escaláveis, eficientes e de alta qualidade, utilizando as melhores práticas de desenvolvimento de software e metodologias ágeis.
 Graduando em Sistemas de Informação, aplico conhecimentos sólidos em desenvolvimento de APIs RESTful, microsserviços, workflows assíncronos e integração de sistemas utilizando stacks modernas.
