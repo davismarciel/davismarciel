@@ -94,3 +94,10 @@ Wyden Facimp — *2024–2028*
 
 - 🇧🇷 Português: Nativo  
 - 🇺🇸 Inglês: Avançado (C1) — [Ver certificado EF SET](https://cert.efset.org/BQGrah)  
+
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davismarciel&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=davismarciel&show_icons=true&theme=dracula"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=davismarciel&theme=dracula"/>
+</div>
